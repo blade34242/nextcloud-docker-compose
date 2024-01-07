@@ -1,2 +1,2 @@
-# nc-docker
-nextcloud docker compose file
+# My docker compose file for Nextcloud
+
